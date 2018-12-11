@@ -7,12 +7,14 @@
 Open Humans is dedicated to providing a positive experience for everyone, regardless of:
 
  * age
+ * body size
  * caste
  * disability
  * ethnicity
  * gender identity
  * genetic information
  * nationality
+ * physical appearance
  * race
  * religion
  * sexual orientation
@@ -62,3 +64,4 @@ This Code of Conduct was forked from the example policy from [Otter Tech's Code 
 Additional language was added by Sage Sharp of [Otter Tech](https://otter.technology/code-of-conduct-training/). Language was incorporated from the following Codes of Conduct:
 
  * [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) (licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+ * The [LGBTQ in Technology Slack Code of Conduct](http://lgbtq.technology/coc.html) (licensed [CC Zero](https://creativecommons.org/publicdomain/zero/1.0/))
