@@ -17,6 +17,7 @@ Open Humans is dedicated to providing a positive experience for everyone, regard
  * genetic information
  * immigration status
  * nationality
+ * neurodiversity
  * physical appearance
  * pregnancy
  * race
