@@ -7,9 +7,11 @@
 Open Humans is dedicated to providing a positive experience for everyone, regardless of:
 
  * age
+ * caste
  * disability
  * ethnicity
  * gender identity
+ * genetic information
  * nationality
  * race
  * religion
@@ -57,6 +59,6 @@ This Code of Conduct is licensed under the [Creative Commons Attribution 3.0 Unp
 
 This Code of Conduct was forked from the example policy from [Otter Tech's Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template)
 
-Additional language was added by [ATTRIBUTION OF PEOPLE EDITING THIS DOCUMENT]. Language was incorporated from the following Codes of Conduct:
+Additional language was added by Sage Sharp of [Otter Tech](https://otter.technology/code-of-conduct-training/). Language was incorporated from the following Codes of Conduct:
 
-[LIST OF CODES OF CONDUCT AND THEIR LICENSE TERMS]
+ * [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) (licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
