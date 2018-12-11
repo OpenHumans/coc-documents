@@ -9,11 +9,13 @@ Open Humans is dedicated to providing a positive experience for everyone, regard
  * age
  * body size
  * caste
+ * citizenship
  * disability
  * ethnicity
  * familial status
  * gender identity
  * genetic information
+ * immigration status
  * nationality
  * physical appearance
  * pregnancy
