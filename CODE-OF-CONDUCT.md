@@ -4,7 +4,7 @@
 
 ## Our Standards
 
-[COMMUNITY] is dedicated to providing a positive experience for everyone, regardless of [PROTECTED CLASSES]
+Open Humans is dedicated to providing a positive experience for everyone, regardless of [PROTECTED CLASSES]
 
 Examples of behavior that contributes to creating a positive environment include:
 
@@ -30,7 +30,7 @@ Thank you for helping make this a welcoming, friendly community for everyone.
 
 ## Contact Information
 
-If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the [COMMUNITY] code of conduct team immediately.
+If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Open Humans code of conduct team immediately.
 
 [CONTACT INFORMATION]
 
