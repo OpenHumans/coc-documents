@@ -11,10 +11,12 @@ Open Humans is dedicated to providing a positive experience for everyone, regard
  * caste
  * disability
  * ethnicity
+ * familial status
  * gender identity
  * genetic information
  * nationality
  * physical appearance
+ * pregnancy
  * race
  * religion
  * sexual orientation
