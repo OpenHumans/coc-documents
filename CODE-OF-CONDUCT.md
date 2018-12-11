@@ -4,7 +4,16 @@
 
 ## Our Standards
 
-Open Humans is dedicated to providing a positive experience for everyone, regardless of [PROTECTED CLASSES]
+Open Humans is dedicated to providing a positive experience for everyone, regardless of:
+
+ * age
+ * disability
+ * ethnicity
+ * gender identity
+ * nationality
+ * race
+ * religion
+ * sexual orientation
 
 Examples of behavior that contributes to creating a positive environment include:
 
