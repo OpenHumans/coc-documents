@@ -11,6 +11,7 @@ Open Humans is dedicated to providing a positive experience for everyone, regard
  * caste
  * citizenship
  * disability
+ * education
  * ethnicity
  * familial status
  * gender identity
@@ -23,6 +24,7 @@ Open Humans is dedicated to providing a positive experience for everyone, regard
  * race
  * religion (or lack of thereof)
  * sexual orientation
+ * socio-economic status
 
 Examples of behavior that contributes to creating a positive environment include:
 
