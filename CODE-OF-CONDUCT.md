@@ -14,6 +14,7 @@ Open Humans is dedicated to providing a positive experience for everyone, regard
  * education
  * ethnicity
  * familial status
+ * gender expression
  * gender identity
  * genetic information
  * immigration status
